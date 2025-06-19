@@ -26,7 +26,7 @@ HTML5
 CSS3
 
 JavaScript (DOM Manipulation & Event Handling)
-Screenshot-
+Screenshot-https://github.com/kajalpa302005/SIMON-SAYS-GAMES/blob/main/Screenshot%202025-06-19%20234628.png
 
 
 
